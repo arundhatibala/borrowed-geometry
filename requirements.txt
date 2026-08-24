@@ -1,0 +1,9 @@
+torch
+transformers
+datasets
+numpy
+scipy
+statsmodels
+unbabel-comet
+fasttext-wheel
+huggingface_hub
